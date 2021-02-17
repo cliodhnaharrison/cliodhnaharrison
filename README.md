@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hi, I'm Clíodhna Harrison
 
-- [Twitter](https://twitter.com/Classic_Cli)
 - Pronouns: she/her
+
+#### Where to find me
+- [Twitter](https://twitter.com/Classic_Cli)
+
