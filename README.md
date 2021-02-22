@@ -5,6 +5,7 @@
 
 ### Where to find me
 - [Twitter](https://twitter.com/Classic_Cli)
+- [LinkedIn](https://www.linkedin.com/in/cliodhna-harrison/), I only accept connection requests from people I know or at least know of.
 
 ### My Interests
 - Python
