@@ -6,9 +6,13 @@
 ### Where to find me
 - [Twitter](https://twitter.com/Classic_Cli)
 - [LinkedIn](https://www.linkedin.com/in/cliodhna-harrison/), I only accept connection requests from people I know or at least know of.
+- [Kattis](https://open.kattis.com/users/cliodhna-harrison)
+- [HackerRank](https://www.hackerrank.com/cliodhnaharrison)
 
 ### My Interests
 - Python
+- React
+- Docker
 - Neurodiversity, especially in tech
 
 ### My Involvement
