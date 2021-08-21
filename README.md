@@ -1,7 +1,7 @@
 ## Hi, I'm Clíodhna Harrison :wave:
 
 - This readme is under construction, editing it little by little to add all the info I want, the way I want it.
-- Pronouns: she/her
+- Pronouns: she/they
 
 ### Where to find me
 - [Twitter](https://twitter.com/Classic_Cli)
