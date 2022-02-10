@@ -16,8 +16,9 @@
 - Neurodiversity, especially in tech
 
 ### My Involvement
+- [Google Women Techmakers Scholar 2020](https://www.linkedin.com/feed/update/urn:li:activity:6684132085789179904/)
 - Current Vice Chair at [Redbrick](https://redbrick.dcu.ie/), previously Events Officer & Helpdesk
-- [SISTEM](https://sistemconf.com/) 2021 Organising Committee
+- [SISTEM](https://sistemconf.com/) 2018, 2019 & 2021 Organiser
 - ComputeTY Java Assistant (January - February 2016)
 
 ### My Experience
