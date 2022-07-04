@@ -1,6 +1,6 @@
 ## Hi, I'm Clíodhna Harrison :wave:
 
-- This readme is under construction, editing it little by little to add all the info I want, the way I want it.
+- This readme is (still) under construction, editing it little by little to add all the info I want, the way I want it.
 - Pronouns: she/they
 
 ### Where to find me
@@ -11,17 +11,19 @@
 
 ### My Interests
 - Python
+- Ruby & Rails
 - React
 - Docker
-- Neurodiversity, especially in tech
+- Neurodiversity, especially in tech and tech solutions
 
 ### My Involvement
-- [Google Women Techmakers Scholar 2020](https://www.linkedin.com/feed/update/urn:li:activity:6684132085789179904/)
-- Current Vice Chair at [Redbrick](https://redbrick.dcu.ie/), previously Events Officer & Helpdesk
+- [Generation Google Scholar 2020](https://www.linkedin.com/feed/update/urn:li:activity:6684132085789179904/)
+- Former Vice Chair at [Redbrick](https://redbrick.dcu.ie/), also previously Events Officer & Helpdesk
 - [SISTEM](https://sistemconf.com/) 2018, 2019 & 2021 Organiser
 - ComputeTY Java Assistant (January - February 2016)
 
 ### My Experience
+- Software Engineer at Tines (May 2022 - Present)
 - SDE Intern at AWS (April - September 2021)
 - Software Engineering Intern at Demonware (August 2018 - August 2019)
 - AI R&D Intern at Impedans Ltd (July 2017 - January 2018)
